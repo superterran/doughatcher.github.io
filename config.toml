@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Doug Hatcher"
-baseURL = "http://localhost:1313/"
+baseURL = ""
 theme = "dopetrope"
 
 [params.portfolio]
