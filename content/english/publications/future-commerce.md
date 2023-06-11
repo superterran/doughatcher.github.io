@@ -2,7 +2,7 @@
 title: "Future Commerce: What Does “Fully-Integrated” Mean in the DXP Era?"
 date: 2020-03-31T15:40:24+06:00
 # publication thumb
-image : "images/IMG_0025.jpeg"
+image : "images/IMG_0027.png"
 # author
 author : "Doug Hatcher"
 draft: false
