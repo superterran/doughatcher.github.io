@@ -18,7 +18,7 @@ about:
 
 ####################### Education ###########################
 education:
-  enable : true
+  enable : false
   title : "Education"
   education_item:
     # education item loop
@@ -67,21 +67,21 @@ publication:
 
 ########################### Talk ##############################
 talk:
-  enable : true
+  enable : false
   title : "Recent & Upcoming Talks"
   # talk item comes from `content/**/talks/` folder.
 
 
 ########################## Projects ###########################
 project:
-  enable : true
+  enable : false
   title : "My Projects"
   # projects item comes from `content/**/projects/` folder.
 
 
 ########################### Blog ##############################
 blog:
-  enable : true
+  enable : false
   title : "Blog Post"
   # blog item comes from `content/**/blogs/` folder.
 
@@ -90,7 +90,7 @@ blog:
 ########################## Contact ############################
 # contact foem
 contact_form:
-  enable : true
+  enable : false
   title : "Contact Me"
   contact_form_action : "#" #contact form works with https://formspree.io
   name_label : "Your Name"
@@ -102,16 +102,12 @@ contact_form:
 contact_info:
   enable : true
   title : "Get In Touch"
-  content : "Let’s talk about your project and how I can help you or if you just want to chat about design and art - shoot me a message at abcxmple@gmail.com"
+  content : "Let’s talk about your project and how I can help you or if you just want to chat about design and art - shoot me a message!"
   contact_item:
     # contact item loop
     - icon : "ti-email" # themify icon : https://themify.me/themify-icons
-      id : "s.vanbuuren@uu.nl"
-
-    # contact item loop
-    - icon : "ti-mobile" # themify icon : https://themify.me/themify-icons
-      id : "+8801856388817"
+      id : "doug.hatcher@blueacornici.com"
 
     # contact item loop
     - icon : "ti-location-pin" # themify icon : https://themify.me/themify-icons
-      id : "Sjoerd Groenmangebouw C1.19, Padualaan 14,3584 CH Utrecht, The Netherlands; TNO Child The Netherlands"
+      id : "Blue Acorn iCi x Infosys, Charleston SC"

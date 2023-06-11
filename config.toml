@@ -52,20 +52,20 @@ name = "publication"
 URL = "publication"
 weight = 3
   
-[[menu.main]]
-name = "talk"
-URL = "talk"
-weight = 4
+#[[menu.main]]
+#name = "talk"
+#URL = "talk"
+#weight = 4
   
-[[menu.main]]
-name = "project"
-URL = "project"
-weight = 5
+#[[menu.main]]
+#name = "project"
+#URL = "project"
+#weight = 5
   
-[[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 6
+#[[menu.main]]
+#name = "blog"
+#URL = "blog"
+#weight = 6
   
 [[menu.main]]
 name = "contact"
@@ -130,14 +130,14 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2023 Doug Hatcher"
 
 
 ################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
+#[Languages.fr]
+#languageName = "Fr"
+#languageCode = "fr-fr"
+#contentDir = "content/french"
+#weight = 2
 # copyright
-copyright = "Copyright &copy; 2023 Doug Hatcher.com"
+#copyright = "Copyright &copy; 2023 Doug Hatcher"
