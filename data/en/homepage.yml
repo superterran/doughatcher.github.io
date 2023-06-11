@@ -50,12 +50,12 @@ expertise:
   title : "Expertise"
   expertise_item:
     # expertise item loop
-    - name : "Data Analysis and Visualization"
-      content : "Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn"
+    - name : "Adobe Commerce and AEM"
+      content : "Building enterprise grade highly scalable applications"
 
     # expertise item loop
-    - name : "Statical Meathod Learning"
-      content : "Analysis Libraries: pandas, numpy <br> Visualizations: Tablaeu, Seaborn"
+    - name : "Enterprise Solutioning"
+      content : "Solving tough problems in a diverse range of industries"
 
 
 ####################### Publication ###########################
