@@ -48,5 +48,5 @@
 		"ghcr.io/devcontainers/features/go:1": {}
 	},
 
-	"postStartCommand": "make run"
+	"postStartCommand": ".devcontainer/postStart.sh"
 }

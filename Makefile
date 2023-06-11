@@ -7,4 +7,7 @@ submodule-update: ## updates submodules for themes
 	git submodule update --init --recursive
 
 run: submodule-update ## run as a dev server
-	hugo serve -w 
+	hugo serve -w $(PARAMS)
+
+run-codespaces: submodule-update
+	hugo serve -w -b https://${CODESPACE_NAME}-1313.preview.app.github.dev/ --appendPort=false
