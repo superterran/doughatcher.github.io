@@ -1,4 +1,6 @@
+node_modules
 public
 resources
 .hugo_build.lock
 go.mod
+package-lock.json
