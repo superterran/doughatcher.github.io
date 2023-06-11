@@ -1,7 +1,7 @@
 ---
-title: "George Cushen"
+title: "Doug Hatcher"
 image: "images/author.jpg"
-email: "georgecushen@gofolium.com"
+email: "doug.hatcher@blueacornici.com"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"

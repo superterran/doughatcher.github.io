@@ -4,7 +4,7 @@ date: 2020-03-14T15:40:24+06:00
 # publication thumb
 image : "images/publications/pub2.jpg"
 # author
-author : "George Cushen"
+author : "Doug Hatcher"
 draft: false
 # description
 description: "This is meta description"

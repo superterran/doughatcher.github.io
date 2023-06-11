@@ -1,7 +1,7 @@
 ######################### Banner ###########################
 banner:
   enable : true
-  title :  "Hey, I’m Maclarn **!**"
+  title :  "Hey, I’m Doug **!**"
   subtitle : "A Data Scientist & Product Enthusiast"
   social : true
   # social icons comes from `config.toml` file.
