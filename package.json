@@ -1,5 +1,10 @@
 {
   "dependencies": {
     "hugo-extended": "^0.113.0"
+  },
+
+  "scripts": {
+   "prestart": "git submodule update --init --recursive",
+   "start": "hugo serve -w"
   }
 }
