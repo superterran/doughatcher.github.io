@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["docs"]
+mainSections = ["posts", "publications"]
 # robots = ""
 
 disableImageOptimization = false
@@ -41,7 +41,7 @@ smartTOCHideUnfocusedChildren = false
   showRecent = false
   showRecentItems = 12
   showMoreLink = true
-  showMoreLinkDest = "docs"
+  showMoreLinkDest = "posts"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background

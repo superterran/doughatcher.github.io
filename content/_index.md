@@ -1,11 +1,12 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This is a demo of the Blowfish theme for Hugo."
+title: "Doug Hatcher :fire:"
+description: "Solution Consultant and Technical Architect"
 ---
 
-This is a demo site built entirely using Blowfish. It also contains a complete set of [theme documentation]({{< ref "docs" >}}). Blowfish is flexible and is great for both static page-based content (like this demo) or a traditional blog with a feed of recent posts.
+I’m a Senior Solution Consultant at Blue Acorn iCi x Infosys. I shape pre-sales commerce strategies and have a rich decade-long background as an Adobe Commerce Architect. Now in sales, I guide businesses through emerging technologies, ensuring my clients are poised to seize opportunities in the dynamic e-commerce industry.
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
+
+<!-- <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
     {{< icon "triangle-exclamation" >}}
   </span>
@@ -19,5 +20,4 @@ This is a demo site built entirely using Blowfish. It also contains a complete s
     </button>
   </span>
 </div>
-
-Explore the [sample pages]({{< ref "samples" >}}) to get a feel for what Blowfish can do. If you like what you see, check out the project on <a target="_blank" href="https://github.com/nunocoracao/blowfish">Github</a> or read the [Installation guide]({{< ref "docs/installation" >}}) to get started.
+ -->

@@ -8,16 +8,16 @@ title = "Doug Hatcher"
   isoCode = "en"
   rtl = false
   dateFormat = "January 1st 2006"
-  logo = "img/blowfish_logo_transparent.png"
+  logo = "img/author.jpg"
   # secondaryLogo = "PATH"
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  description = "Solution Consultant and Technical Architect at Blue Acorn and Infosys"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "Doug Hatcher"
   image = "img/blowfish_logo.png"
-  headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
-  bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  headline = "Solution Consultant and Technical Architect at Blue Acorn and Infosys"
+  bio = "Solution Consultant and Technical Architect at Blue Acorn and Infosys"
   links = [
     { x-twitter = "https://twitter.com/superterran" },
     { mastodon = "https://masto.ai/@blowfish" },

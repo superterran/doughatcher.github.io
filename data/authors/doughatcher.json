@@ -1,0 +1,15 @@
+{
+    "name": "Doug Hatcher",
+    "image" : "img/author.jpg",
+    "bio": "Site Owner",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/doughatcher" },
+        { "twitter": "https://twitter.com/superterran" },
+        { "instagram": "https://instagram.com/hatcherdoug" },
+        { "medium": "https://medium.com/@superterran" },
+        { "github": "https://github.com/superterran" },
+        { "goodreads": "http://goodreads.com/superterran" },
+        { "keybase": "https://keybase.io/superterran" },
+        { "reddit": "https://reddit.com/user/superterran" }
+    ]
+}
