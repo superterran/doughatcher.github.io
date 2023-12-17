@@ -11,6 +11,3 @@ install:
 
 run: install submodule-update ## run as a dev server
 	npx hugo serve -w
-
-run-codespaces: install submodule-update
-	npx hugo serve -w -b https://${CODESPACE_NAME}-1313.preview.app.github.dev/ --appendPort=false
