@@ -1,3 +1,7 @@
 [submodule "themes/dopetrope"]
 	path = themes/dopetrope
 	url = https://github.com/curtiscde/hugo-theme-dopetrope.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
