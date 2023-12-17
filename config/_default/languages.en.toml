@@ -1,27 +1,27 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Doug Hatcher"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "January 1st 2006"
   logo = "img/blowfish_logo_transparent.png"
   # secondaryLogo = "PATH"
   description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "Blowfish"
+  name = "Doug Hatcher"
   image = "img/blowfish_logo.png"
   headline = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
   bio = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
+    { x-twitter = "https://twitter.com/superterran" },
     { mastodon = "https://masto.ai/@blowfish" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { github = "https://github.com/superterran" },
   ]
 
   
