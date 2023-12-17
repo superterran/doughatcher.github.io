@@ -18,7 +18,7 @@ mainSections = ["posts", "publications"]
 disableImageOptimization = false
 disableTextInHeader = false
 
-defaultBackgroundImage = "/img/ocean.jpg"
+defaultBackgroundImage = "/img/kde-plasma-flow.jpg"
 defaultFeaturedImage = "/img/ocean.jpg"
 
 highlightCurrentMenuArea = true
