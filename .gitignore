@@ -4,3 +4,4 @@ resources
 .hugo_build.lock
 go.mod
 package-lock.json
+.env

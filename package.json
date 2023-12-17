@@ -1,10 +1,14 @@
 {
   "dependencies": {
-    "hugo-extended": "^0.113.0"
+    "hugo-extended": "^0.113.0",
+    "tinacms": "^1.5.28"
   },
-
   "scripts": {
-   "prestart": "git submodule update --init --recursive",
-   "start": "hugo serve -w"
+    "prestart": "git submodule update --init --recursive",
+    "start": "hugo serve -w"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.5.39",
+    "@types/node": "^20.10.4"
   }
 }
