@@ -1,9 +1,9 @@
 ---
-title: "Doug Hatcher :fire:"
-description: "Solution Consultant and Technical Architect"
+title: "Doug Hatcher"
+description: "Technical Architect and Solution Consultant"
 ---
 
-I’m a Senior Solution Consultant at Blue Acorn iCi x Infosys. I shape pre-sales commerce strategies and have a rich decade-long background as an Adobe Commerce Architect. Now in sales, I guide businesses through emerging technologies, ensuring my clients are poised to seize opportunities in the dynamic e-commerce industry.
+<!-- I’m a Senior Solution Consultant at Blue Acorn iCi x Infosys. I shape pre-sales commerce strategies and have a rich decade-long background as an Adobe Commerce Architect. Now in sales, I guide businesses through emerging technologies, ensuring my clients are poised to seize opportunities in the dynamic e-commerce industry. -->
 
 
 <!-- <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
